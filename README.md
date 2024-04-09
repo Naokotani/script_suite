@@ -8,8 +8,8 @@ within the modules themselves.
 
 # Installation
 This suite requires the installation of some dependencies that may not
-already be present on your Linux system. The `install.sh` script will
-add them to your system, but you should review the list carefully
+already be present on your Linux system. The `install.sh`  should script
+will add them to your system, but you should review the list carefully
 prior to installation. The list includes the following:
 
 - bmon

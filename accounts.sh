@@ -1,7 +1,8 @@
 #!/bin/sh
 
 # This simple shell script will automate some basic accounts realted
-# tasks. 
+# tasks. The user will be able to add either a new user or a new group
+# after being prompted for the name of the new user/group.
 
 echo -e "\n\n** This script requires root priviledges **\n"
 

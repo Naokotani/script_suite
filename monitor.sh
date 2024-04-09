@@ -1,7 +1,10 @@
 #!/bin/sh
 
 # This basic utility simply directs you to the relavent monitoring
-# utilities.
+# utilities. 
+#
+# Htop is for monitoring system resources, bmon can be used to monitor
+# network usage.
 
 echo "What would you like to monitor?"
 echo "1: System resouces"

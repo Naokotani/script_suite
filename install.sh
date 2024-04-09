@@ -21,4 +21,4 @@ esac
 
 echo -e "** This follow installations require root privildges **\n\n"
 
-apt-get install bmon traceroute
+apt-get install bmon traceroute node
